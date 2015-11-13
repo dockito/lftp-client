@@ -1,0 +1,4 @@
+lftpclient:
+  build: .
+  volumes:
+    - .:/usr/src/lftp
